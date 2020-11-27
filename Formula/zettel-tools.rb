@@ -5,7 +5,7 @@ class ZettelTools < Formula
   desc "CLI tools for The Archive.app"
   homepage "https://github.com/nelsonlove/zettel-tools"
   url "https://github.com/nelsonlove/zettel-tools/archive/main.tar.gz"
-  version ""
+  version "0.0.1"
   sha256 ""
   license ""
 
