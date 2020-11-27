@@ -6,7 +6,7 @@ class ZettelTools < Formula
   revision 1
   head "https://github.com/nelsonlove/zettel-tools.git"
   version "0.0.1"
-  sha256 "2a334d21fe3845544af08e9cf1c380be7ed06c6e1a68153b14073eb152d4f12e"
+  sha256 "54909c5f39c5938c1577078468d7e84e547b95861dddb16a3d5cb5644fdbc704"
 
   depends_on "python@3.9"
 
