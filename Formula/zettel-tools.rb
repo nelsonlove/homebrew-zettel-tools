@@ -1,4 +1,4 @@
-class Zetteltools < Formula
+class ZettelTools < Formula
   desc "CLI tools for use with The Archive.app"
   homepage "https://github.com/nelsonlove/zettel-tools"
   url "https://github.com/iKevinY/EulerPy/archive/v1.4.0.tar.gz"
